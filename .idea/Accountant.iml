@@ -5,5 +5,23 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="hibernated-0.4.0" level="project" />
+    <orderEntry type="library" name="ddbc-0.6.0" level="project" />
+    <orderEntry type="library" name="d-unit-0.10.2" level="project" />
+    <orderEntry type="library" name="undead-1.1.8" level="project" />
+    <orderEntry type="library" name="derelict-pq-2.2.0" level="project" />
+    <orderEntry type="library" name="derelict-util-2.0.6" level="project" />
+    <orderEntry type="library" name="mysql-native-3.1.0" level="project" />
+    <orderEntry type="library" name="odbc-1.0.0" level="project" />
+    <orderEntry type="library" name="sdlang-d-0.10.6" level="project" />
+    <orderEntry type="library" name="taggedalgebraic-0.11.23" level="project" />
+    <orderEntry type="library" name="unit-threaded-0.7.55" level="project" />
+    <orderEntry type="library" name="unit-threaded:assertions-0.7.55" level="project" />
+    <orderEntry type="library" name="unit-threaded:exception-0.7.55" level="project" />
+    <orderEntry type="library" name="unit-threaded:from-0.7.55" level="project" />
+    <orderEntry type="library" name="unit-threaded:integration-0.7.55" level="project" />
+    <orderEntry type="library" name="unit-threaded:mocks-0.7.55" level="project" />
+    <orderEntry type="library" name="unit-threaded:property-0.7.55" level="project" />
+    <orderEntry type="library" name="unit-threaded:runner-0.7.55" level="project" />
   </component>
 </module>
