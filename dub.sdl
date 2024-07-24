@@ -1,0 +1,7 @@
+name "accountant"
+description "A simple accounting application."
+authors "Peter Lewis"
+copyright "Copyright © 2024, Peter Lewis"
+license "GPL-3.0-or-later"
+
+dependency "sdlang-d" version="~>0.10.6"
